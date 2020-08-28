@@ -9,6 +9,9 @@ they are encoded into the lossless .wav format (this was the simplest wrapper fo
 
 The format for sampleTex.mujik is 
 
+This project was insprired from a youtube video by Tsoding, and therefore quickly made for entertainment value.
+As such, No trailing spaces at the end of a line are allowed for the input file.
+
 ```
 [a1a2..] implies on of (a1,a2,a3.. and so on)
 a+  implies one or more of a

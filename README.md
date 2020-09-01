@@ -18,10 +18,11 @@ a+  implies one or more of a
 a* implies none or more of a 
 a? implies one or none of a 
 
-note  := [ABCDEFG](#?)[Integer][WHQEST]
+note  := [ABCDEFGR](#?)[Integer][WHQEST]
 mujik := note*
 
 Here, [ABCDEFG] represents the Root Notes. 
+R is for Rest. (No Sound)
 # is obvious, (Flats not supported)
 [WHQEST] represents the length of the note
 W -> Whole (4 Beats)
